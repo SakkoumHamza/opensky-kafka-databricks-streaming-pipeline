@@ -1,1 +1,1 @@
-# opensky-kafka-databricks-stremine-pipeline
+# opensky-kafka-databricks-streaming-pipeline
